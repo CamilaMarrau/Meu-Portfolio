@@ -32,7 +32,7 @@ Dashboard com insights estratégicos:
 - Total de funcionários, média salarial, percentual por gênero, disponibilidade para hora extra e mais.
 - Inclui medida DAX, coluna condicional e layout de fácil leitura.
 
-🔗 *[Repositório em breve]*
+🔗 *[Repositório em Anexo, Acesse !]*
 
 
 
