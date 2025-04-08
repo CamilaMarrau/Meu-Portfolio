@@ -44,7 +44,7 @@ Projeto focado em performance de marketing com diferentes visões:
 - **Visão Comportamento**: padrões de consumo e tendências.
 - **Visão Ponto de Venda**: análise geográfica e resultados locais.
 
-🔗 *[Repositório em breve]*
+🔗 *[Repositório em Anexo, Acesse !]*
 
 
 
