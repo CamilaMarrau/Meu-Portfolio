@@ -25,26 +25,35 @@ Estou em constante aprendizado e construção do meu portfólio, trazendo insigh
 
 
 
-## 📁 Projetos em Destaque
+---
 
-### 📌 Dashboard RH - Análise de Recursos Humanos com Power BI
-Dashboard com insights estratégicos:
-- Total de funcionários, média salarial, percentual por gênero, disponibilidade para hora extra e mais.
-- Inclui medida DAX, coluna condicional e layout de fácil leitura.
+## 👥 Projeto de Análise de RH – Power BI
 
-🔗 *[Repositório em Anexo, Acesse !]*
+Este mini-projeto apresenta uma introdução prática à análise de dados de Recursos Humanos com o Power BI. Foram utilizadas medidas DAX, colunas condicionais e recursos visuais para responder perguntas de negócio como:
+
+- 👩‍💼 Quantidade total de funcionários na empresa  
+- 📊 Tempo médio de experiência dos colaboradores  
+- ⚖️ Distribuição de gênero e percentuais  
+- 💰 Média salarial mensal  
+- 🧠 Nível de envolvimento dos funcionários (Ruim, Baixo, Médio, Alto)  
+- ⏱️ Funcionários disponíveis para hora extra  
+- 📈 Promoções: cálculo de elegíveis por perfil
+
+🔗 [Acesse o arquivo do projeto (.pbix)](https://github.com/CamilaMarrau/Meu-Portfolio/blob/main/Projeto%20RH.pbix)
+
+🖼️ ![Capa do projeto RH](https://raw.githubusercontent.com/CamilaMarrau/Meu-Portfolio/main/capa-rh.png)
 
 
 
-### 📌 Dashboard Marketing - Análise de Campanhas com Power BI
-Projeto focado em performance de marketing com diferentes visões:
+## 📊 Projeto de Dashboard de Marketing – Power BI
 
-- **Visão Cliente**: perfil, comportamento e engajamento.
-- **Visão Campanha**: alcance, conversão e efetividade.
-- **Visão Comportamento**: padrões de consumo e tendências.
-- **Visão Ponto de Venda**: análise geográfica e resultados locais.
+Análise de campanhas de marketing com foco nas seguintes visões:
+- Visão Cliente
+- Visão Comportamento
+- Visão da Campanha
+- Visão de Pontos de Vendas
 
-🔗 *[Repositório em Anexo, Acesse !]*
+🔗 [Clique aqui para acessar o projeto (.pbix)](https://github.com/CamilaMarrau/Meu-Portfolio/blob/main/Projeto%20de%20Marketing.pbix)
 
 
 
